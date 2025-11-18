@@ -7,5 +7,4 @@ Link: https://www.educative.io/courses/machine-learning-numpy-pandas-scikit-lear
 _This repository serves as my personal storage and practice space for Educative IO Machine Learning with NumPy, pandas, scikit-learn, and More. All problem sets, exercises, and experiments related to the course will be stored here._
 
 ### Certificate
-
 <img src="certificate.png" alt="certificate" width="75%">
