@@ -8,4 +8,4 @@ _This repository serves as my personal storage and practice space for Educative 
 
 ### Certificate
 
-<img src="certificate.png" alt="certificate" width="75%"
+<img src="certificate.png" alt="certificate" width="75%">
